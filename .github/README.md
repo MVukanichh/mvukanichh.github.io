@@ -40,7 +40,7 @@ Distributed under the CC-BY-4.0 License. See ``LICENSE`` for more information.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-I've found these resources helpful and used them to make this  project. Huge thanks to them.
+I've found these resources helpful and used them to make this project. Huge thanks to them.
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [Metakirby5 for YoRHa css](https://github.com/metakirby5/yorha)
